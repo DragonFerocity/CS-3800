@@ -1,0 +1,45 @@
+What would you like to do?
+	1. Print this scripts process ancestry tree
+	2. Find which users are online
+	3. Figure out someone's processes
+	4. Exit
+27664
+  |
+27663
+  |
+27611
+  |
+31262
+  |
+1
+
+What would you like to do?
+	1. Print this scripts process ancestry tree
+	2. Find which users are online
+	3. Figure out someone's processes
+	4. Exit
+These users are currently online:
+	1. jcsqkc
+	2. rtanq9
+
+What would you like to do?
+	1. Print this scripts process ancestry tree
+	2. Find which users are online
+	3. Figure out someone's processes
+	4. Exit
+These users are currently online:
+	1. rtanq9
+	2. jcsqkc
+What user would you like to see the processes of? 
+root	10068	31262	-	23:27	?	sshd: jcsqkc
+jcsqkc	10078	1	-	23:27	?	/usr/bin/perl /usr/bin/dfshack
+jcsqkc	10117	10068	-	23:27	?	sshd: jcsqkc@pts/9
+jcsqkc	10118	10117	-	23:27	pts/9	-bash 
+jcsqkc	12034	10118	-	23:36	pts/9	sh -x
+
+What would you like to do?
+	1. Print this scripts process ancestry tree
+	2. Find which users are online
+	3. Figure out someone's processes
+	4. Exit
+Goodbye!
